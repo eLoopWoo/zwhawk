@@ -1,0 +1,12 @@
+{
+  "rootkit": {
+    "version": "1.0",
+    "name": "zwhawk"
+  },
+  "dropper":{
+    "version": "1.0",
+    "name": "dropper",
+	"manager": "192.168.1.26"
+  },
+  "author": "eloopwoo"
+}
