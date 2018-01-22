@@ -2,7 +2,7 @@
 
 A kernel rootkit with remote command and control interface for windows
 
-## ------------------------------------------------------------------------------------------
+## --------------------------------------------------------------
 <img align="left" src="./assets/demo1.gif" height = 250>
 <img align="rightt" src="./assets/demo2.gif" height = 250>
 
@@ -12,7 +12,7 @@ A kernel rootkit with remote command and control interface for windows
 <img align="left" src="./assets/demo5.gif" height = 250>
 <img align="right" src="./assets/demo6.gif" height = 250>
 
-## ------------------------------------------------------------------------------------------
+## --------------------------------------------------------------
 
 ### Synopsis
 
